@@ -1,2 +1,2 @@
 # testrepo
-# this a test repository for IBM capstone course
+# this is a test repository for IBM capstone course
